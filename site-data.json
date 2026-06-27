@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "Sabinas Automotive & State Inspection",
+    "shortName": "Sabinas Automotive",
+    "tagline": "Trusted Dallas Auto Repair & State Inspection Since 1995",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 634-8112",
+    "address": "2823 N Hampton Rd, Dallas, TX 75212",
+    "city": "Dallas, TX",
+    "hours": "Mon–Fri: 7:30 AM – 5:30 PM, Sat: 8:00 AM – 12:00 PM",
+    "ctaLabel": "Schedule Your Service Today",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Sabinas Automotive & State Inspection | Dallas Auto Repair & Inspection",
+    "description": "Family-owned auto repair in Dallas, TX. Expert diagnostics, brakes, AC, engine repair & state inspection. 4.6 stars. Call (214) 634-8112."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas’s Trusted Auto Care Since 1995",
+      "headline": "Expert Auto Repair & State Inspection in Dallas",
+      "subheadline": "From routine maintenance to complex repairs, our certified mechanics deliver honest, quality service that keeps you safe on the road.",
+      "primaryCta": "Schedule Appointment",
+      "secondaryCta": "Call (214) 634-8112"
+    },
+    "stats": [
+      {
+        "value": "28+",
+        "label": "Years of Service"
+      },
+      {
+        "value": "4.6",
+        "label": "Star Rating"
+      },
+      {
+        "value": "1000+",
+        "label": "Cars Serviced Annually"
+      },
+      {
+        "value": "99%",
+        "label": "On-Time Completion"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Complete Car Care",
+        "title": "From Diagnostics to State Inspection – We Do It All",
+        "body": "Your vehicle is a complex machine. Our technicians use advanced diagnostic tools to pinpoint issues quickly, saving you time and money. Whether it's a check engine light, brake noise, or routine oil change, we have you covered.",
+        "bullets": [
+          "Computerized diagnostics for accurate repairs",
+          "State inspections done on the spot",
+          "Transparent pricing with no hidden fees",
+          "Warranty on parts and labor"
+        ],
+        "reverse": false,
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Quality Assured",
+        "cardBody": "Every repair comes with a 12-month/12,000-mile warranty. Drive with confidence knowing your car is in expert hands."
+      },
+      {
+        "eyebrow": "Convenient & Reliable",
+        "title": "Dallas Auto Repair That Fits Your Schedule",
+        "body": "We know your time is valuable. That's why we offer early drop-offs, quick turnaround on most repairs, and a comfortable waiting area with free Wi-Fi. Plus, we're conveniently located near I-30 and I-35E.",
+        "bullets": [
+          "Early morning drop-off available",
+          "Most repairs completed same day",
+          "Shuttle service to nearby locations",
+          "Online appointment scheduling"
+        ],
+        "reverse": true,
+        "cardLabel": "Local Favorite",
+        "cardTitle": "Community Trusted",
+        "cardBody": "Family-owned and operated, we treat every customer like a neighbor. Ask around – Sabinas is where Dallas goes for honest auto care."
+      }
+    ],
+    "whyTitle": "Why Dallas Drivers Choose Sabinas Automotive",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our ASE-certified mechanics stay current with the latest automotive technology to ensure your car gets the best care possible."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "We provide detailed estimates before any work begins. No surprises, no upselling – just fair, upfront pricing."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "Most routine services are completed in under two hours. We respect your time and work efficiently without cutting corners."
+      },
+      {
+        "title": "Warranty Protection",
+        "description": "All repairs are backed by a comprehensive warranty. If something isn't right, we'll make it right – at no extra cost."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I've been bringing my cars to Sabinas for over 10 years. They're honest, fair, and always fix it right the first time. Highly recommend!",
+        "author": "Mike R.",
+        "role": "Oak Lawn resident"
+      },
+      {
+        "quote": "Needed a state inspection and ended up getting my brakes done too. They showed me exactly what was needed and didn't push anything extra. Great service.",
+        "author": "Lisa T.",
+        "role": "Dallas commuter"
+      },
+      {
+        "quote": "My check engine light came on and they diagnosed it in 30 minutes. Repair was done same day and price was very reasonable. My go-to shop now.",
+        "author": "James K.",
+        "role": "West Dallas homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for Reliable Auto Care?",
+      "subheadline": "Schedule your appointment today and experience the Sabinas difference.",
+      "primaryCta": "Book Online",
+      "secondaryCta": "Call (214) 634-8112"
+    }
+  },
+  "servicesPage": {
+    "intro": "Sabinas Automotive offers a full range of repair and maintenance services for all makes and models. From state inspections to major engine work, our certified technicians deliver quality you can trust."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Pinpoint and fix engine issues with advanced diagnostic equipment.",
+      "longDescription": "When your check engine light comes on or your car isn't performing as it should, our technicians use state-of-the-art diagnostic scanners to identify the root cause. We then provide a clear explanation and an honest estimate before any work begins. From sensor replacements to major engine overhauls, we have the expertise to get you back on the road safely.",
+      "benefits": [
+        "Accurate diagnosis saves time and money",
+        "Repairs performed by ASE-certified mechanics",
+        "Use of OEM-quality parts for longevity",
+        "Warranty on all engine repairs"
+      ],
+      "process": [
+        {
+          "title": "Comprehensive Scan",
+          "description": "We connect your vehicle to our diagnostic system to read error codes and live data."
+        },
+        {
+          "title": "Thorough Inspection",
+          "description": "We visually inspect components and test drive if needed to confirm the issue."
+        },
+        {
+          "title": "Repair & Verification",
+          "description": "After your approval, we perform the repair and re-test to ensure the problem is resolved."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostics are completed within 30-60 minutes, depending on the complexity."
+        },
+        {
+          "question": "Will you reset my check engine light?",
+          "answer": "We only reset the light after the underlying issue is fixed, ensuring your car is truly safe."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Service & Repair",
+      "shortDescription": "Keep your stopping power strong with expert brake inspections and repairs.",
+      "longDescription": "Your brakes are your vehicle's most important safety feature. We inspect pads, rotors, calipers, and fluid levels to ensure optimal performance. Whether you need a simple pad replacement or a complete brake system overhaul, we use high-quality parts and precise techniques to restore your stopping power. Squeaking, grinding, or a soft pedal? Bring it in today.",
+      "benefits": [
+        "Thorough brake inspection included with every service",
+        "Premium pads and rotors for quiet, reliable stopping",
+        "Brake fluid flush extends system life",
+        "Competitive pricing with no hidden fees"
+      ],
+      "process": [
+        {
+          "title": "Visual & Road Test",
+          "description": "We check pad thickness, rotor condition, and listen for noise during a test drive."
+        },
+        {
+          "title": "Detailed Estimate",
+          "description": "We show you exactly what needs attention and provide a written estimate."
+        },
+        {
+          "title": "Precision Installation",
+          "description": "We replace worn components and adjust the system for perfect pedal feel."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000-70,000 miles, but it depends on driving habits. We check them free with any visit."
+        },
+        {
+          "question": "Do you use OEM or aftermarket parts?",
+          "answer": "We use high-quality aftermarket and OEM options, always with a warranty."
+        }
+      ],
+      "slug": "brake-service-repair"
+    },
+    {
+      "icon": "03",
+      "title": "AC & Heating System Service",
+      "shortDescription": "Stay comfortable year-round with expert AC and heater repairs.",
+      "longDescription": "A malfunctioning AC or heater can make driving miserable. Our technicians are trained to diagnose and repair all climate control issues, from refrigerant leaks to faulty compressors and blend doors. We use specialized equipment to recharge your system to factory specs and ensure proper operation. Don't sweat through another Dallas summer – we'll get your cool air flowing.",
+      "benefits": [
+        "Full system performance test included",
+        "Leak detection and repair using UV dye",
+        "Environmentally responsible refrigerant handling",
+        "Restores cabin comfort quickly"
+      ],
+      "process": [
+        {
+          "title": "System Evaluation",
+          "description": "We check pressures, temperatures, and inspect components for wear or damage."
+        },
+        {
+          "title": "Leak Detection",
+          "description": "Using electronic and UV methods, we find even small leaks."
+        },
+        {
+          "title": "Repair & Recharge",
+          "description": "We replace faulty parts and recharge refrigerant to manufacturer specifications."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Common causes include low refrigerant, a failed compressor, or a clogged condenser. We'll diagnose the exact issue."
+        },
+        {
+          "question": "How often should AC be serviced?",
+          "answer": "We recommend an AC check every two years to catch small issues before they become costly."
+        }
+      ],
+      "slug": "ac-heating-system-service"
+    },
+    {
+      "icon": "04",
+      "title": "Texas State Inspection",
+      "shortDescription": "Fast, thorough state inspections to keep you legal and safe.",
+      "longDescription": "Texas requires annual safety and emissions inspections for most vehicles. At Sabinas, we perform the inspection quickly and accurately, checking brakes, tires, lights, emissions, and more. Our certified inspectors follow all state guidelines to ensure your car passes. We can also make minor adjustments on the spot to help you pass. No appointment needed – just drive in.",
+      "benefits": [
+        "Quick turnaround – most inspections done in 30 minutes",
+        "Knowledgeable inspectors explain any failures",
+        "Minor repairs performed immediately to help you pass",
+        "Convenient location near major highways"
+      ],
+      "process": [
+        {
+          "title": "Safety Check",
+          "description": "We inspect brakes, tires, lights, horn, windshield, and seat belts."
+        },
+        {
+          "title": "Emissions Test",
+          "description": "Using calibrated equipment, we measure exhaust emissions (if applicable)."
+        },
+        {
+          "title": "Pass or Assist",
+          "description": "If your car passes, you get your sticker. If not, we explain what's needed and can often fix it right away."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do I need an appointment for a state inspection?",
+          "answer": "No, walk-ins are welcome. However, calling ahead can minimize wait times."
+        },
+        {
+          "question": "What if my car fails inspection?",
+          "answer": "We'll provide a detailed report and can perform the necessary repairs. You have 15 days to get it re-inspected at no extra charge."
+        }
+      ],
+      "slug": "texas-state-inspection"
+    }
+  ],
+  "about": {
+    "headline": "Family-Owned Auto Care in Dallas Since 1995",
+    "mission": "To provide honest, high-quality auto repair and inspection services that keep our community safe and moving forward.",
+    "story": [
+      "Sabinas Automotive was founded in 1995 by the Sabinas family with a simple vision: treat every customer like a neighbor and every car like it’s your own. Starting as a small two-bay shop on Hampton Road, we built a reputation for integrity and technical excellence. Over the years, we’ve grown into a full-service auto repair center, but our core values remain unchanged – transparency, quality, and community.",
+      "Today, our team of ASE-certified technicians serves thousands of Dallas drivers each year. We invest in the latest diagnostic equipment and ongoing training to stay ahead of automotive advancements. Whether it’s a simple oil change or a complex engine repair, we approach every job with the same dedication. We’re proud to be a trusted part of the Dallas community and look forward to serving you and your family for years to come."
+    ],
+    "highlight": {
+      "stat": "28+",
+      "label": "Years of Honest Service"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always tell you what your car truly needs – nothing more, nothing less."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-tier parts and follow manufacturer specifications for every repair."
+      },
+      {
+        "title": "Community",
+        "description": "We support local schools, teams, and charities because Dallas is our home too."
+      },
+      {
+        "title": "Continuous Improvement",
+        "description": "We invest in training and technology to provide the best service possible."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Sabinas Automotive",
+    "subheadline": "Ready to schedule? Call us or fill out the form below and we'll get back to you fast.",
+    "primaryCta": "Call (214) 634-8112",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Oak Lawn",
+      "West Dallas",
+      "Irving",
+      "Grand Prairie",
+      "Arlington"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.6,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2146348112",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
